@@ -57,7 +57,7 @@ pnpm build
 
 A simple guide has been written to assist in hosting your own instance of movie-web. Check it out below
 
-|[Selfhosting guide](https://docs.movie-web.app)|
+|[Selfhosting guide](https://web.archive.org/web/20240212172141/https://docs.movie-web.app/self-hosting/hosting-intro)|
 |---|
 
 
